@@ -1,2 +1,1 @@
-let companyName = 'Scuber';
-if companyName
+const companyName = 'Scuber';
